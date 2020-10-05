@@ -1,0 +1,6 @@
+body {
+  height: 100%;
+  background: url('./assets/img/background.png') white no-repeat center center;
+  background-attachment: fixed;
+  background-size: cover;
+}
